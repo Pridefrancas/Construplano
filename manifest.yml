@@ -1,0 +1,6 @@
+applications:
+- name: Construplano
+  command: npm start
+  path: .
+  memory: 64M
+  instances: 1
