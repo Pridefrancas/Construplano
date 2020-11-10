@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #43aea0;
+  color: #0B1C47;
 }
 
 a:hover {
-  color: #00d3b8;
+  color: #8C8C8C;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   border-radius: 3px;
   right: 15px;
   bottom: 15px;
-  background: #D6D6D6;
+  background: #0B1C47;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 .back-to-top:hover {
   color: #fff;
-  background: #8C8C8C;
+  background: #8bc6bf;
   transition: background 0.2s ease-in-out;
 }
 
@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #header.header-scrolled {
-  background: #0B0909;
+  background: #8C8C8C;
   height: 60px;
   padding: 10px 0;
 }
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #D6D6D6;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -236,13 +236,13 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #d2ece9;
+  color: #D6D6D6;
   padding: 10px 20px;
   font-weight: 500;
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #9cd5ce;
+  color: #0B1C47;
   text-decoration: none;
 }
 
@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #hero:before {
   content: "";
-  background: #8c8c8ca6;
+  background: rgba(135, 140, 139, 0.75);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -355,7 +355,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-size: 48px;
   font-weight: 300;
   line-height: 56px;
-  color: #D6D6D6;
+  color: #fff;
 }
 
 #hero h2 {
@@ -410,7 +410,7 @@ section {
 }
 
 .section-bg {
-  background-color: #D6D6D6;
+  background-color: #e6e6e6;
 }
 
 .section-title {
@@ -526,7 +526,7 @@ section {
 }
 
 .services .icon i {
-  color: #D6D6D6;
+  color: #0B1C47;
   font-size: 42px;
 }
 
@@ -628,7 +628,7 @@ section {
 }
 
 .portfolio .portfolio-item {
-  background: #073839;
+  background: #8C8C8C;
   overflow: hidden;
   min-height: 200px;
   position: relative;
@@ -1038,7 +1038,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #073839;
+  background: #8C8C8C;
   padding: 30px 0;
   color: #fff;
   font-size: 14px;
